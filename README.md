@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rachit Jain</h1>
-<h3 align="center">Computer Science Undergraduate in BITS Pilani, Goa Campus</h3>
+<h3 align="center">Computer Science Undergraduate at BITS Pilani, Goa Campus</h3>
 
 - 🌱 I’m currently learning **web3JS, ReactJS, Blockchain.**
 
