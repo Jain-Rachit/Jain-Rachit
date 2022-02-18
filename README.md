@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rachit Jain</h1>
 <h3 align="center">Computer Science Undergraduate at BITS Pilani, Goa Campus</h3>
 
-- 🌱 I’m currently learning **web3JS, ReactJS, Blockchain.**
+- 🌱 I’m currently learning about **web3JS, Blockchain and other related concepts.**
 
 - 📫 How to reach me **jrachit149@gmail.com**
 
