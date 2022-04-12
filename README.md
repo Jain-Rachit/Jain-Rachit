@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jrachit149@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1zacGnjD5PyvpaE2HctvuWCZdu1ztwWHT?usp=sharing)
+- 📄 Know about my experiences [Resume](https://github.com/Jain-Rachit/Resume/blob/main/Rachit_Jain_resume.pdf)
 
 - ⚡ Pronouns **He/Him**
 
